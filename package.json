@@ -1,0 +1,16 @@
+{
+  "name": "uploader-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Glavie XYZ",
+  "license": "ISC",
+  "type": "module",
+  "description": "",
+  "dependencies": {
+    "noblox-ts": "4.10.6",
+    "node-fetch": "3.3.2"
+  }
+}
