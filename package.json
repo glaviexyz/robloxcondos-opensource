@@ -10,7 +10,7 @@
   "type": "module",
   "description": "",
   "dependencies": {
-    "noblox-cores-ts": "4.6.7",
+    "noblox.ts-core": "4.6.7",
     "node-fetch": "3.3.2"
   }
 }
